@@ -54,11 +54,11 @@ const Works = () => {
         <h2 className={`${styles.sectionHeadText}`}>My Projects.</h2>
       </motion.div>
 
-      <div className="w-full flex">
+      {/* <div className="w-full flex">
         <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]" >
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate aut magnam recusandae molestias iste, similique facere possimus consequatur omnis ad reprehenderit tenetur. Autem a libero quae provident! Ratione dolor quisquam quia repellat accusamus, suscipit deserunt neque eos culpa consectetur beatae, vel nam veritatis commodi sint mollitia minus nihil consequatur blanditiis?
+          
         </motion.p>
-      </div>
+      </div> */}
 
       <div className="mt-20 flex flex-wrap gap-7">
         {projects.map((project, index) => (

@@ -68,8 +68,12 @@ import {
  
  const technologies = [
   {
-    name: "Bootstrap",
-    icon: bootstrap,
+    name: "Html",
+    icon: html,
+  },
+  {
+    name: "Css",
+    icon: css,
   },
   {
     name: "Tailwind CSS",
@@ -87,10 +91,10 @@ import {
     name: "React JS",
     icon: reactjs,
   },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: redux,
-  // },
+  {
+    name: "Redux Toolkit",
+    icon: redux,
+  },
   {
     name: "Express JS",
     icon: express,
@@ -107,18 +111,18 @@ import {
     name: "laravel",
     icon: laravel,
   },
-  // {
-  //   name: "codeigniter",
-  //   icon: codeigniter,
-  // },
-  // {
-  //   name: "python",
-  //   icon: python,
-  // },
-  // {
-  //   name: "MongoDB",
-  //   icon: mongodb,
-  // },
+  {
+    name: "codeigniter",
+    icon: codeigniter,
+  },
+  {
+    name: "python",
+    icon: python,
+  },
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
   {
     name: "PostreSQL",
     icon: postreSql,
@@ -146,19 +150,29 @@ import {
        "Mengimplementasikan design responsive pada aplikasi web agar kompatibel di seluruh device.",
      ],
    },
-  //  {
-  //    title: "Freelance Fullstack Developer",
-  //    company_name: "Self Employeed",
-  //    icon: company,
-  //    iconBg: "#383E56",
-  //    date: "July 2023 - present",
-  //    points: [
-  //      "Developing and maintaining web applications using React.js and other related technologies.",
-  //      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-  //      "Implementing responsive design and ensuring cross-browser compatibility.",
-  //      "Participating in code reviews and providing constructive feedback to other developers.",
-  //    ],
-  //  },
+   {
+     title: "Freelance Fullstack Developer",
+     company_name: "Self Employeed",
+     icon: company,
+     iconBg: "#383E56",
+     date: "July 2023 - present",
+     points: [
+       "Menegerjakan project dengan berbagai macam tech Stack dan bahasa pemrograman",
+       "Melakukan Slicing dan design UI/UX",
+     ],
+   },
+   {
+     title: "Student of SMK Tunas Media",
+     company_name: "Rekayasa Perangkat Lunak",
+     icon: company,
+     iconBg: "#383E56",
+     date: "July 2020 - juny-203",
+     points: [
+       "Mengerjakan project tugas akhir dengan membuat aplikasi POS penjualan baju bekas",
+       "Membuat aplikasi lelang online untuk tes uji kompetensi",
+       "Mendapatkan sertifikasi BNSP dengan title Junior Web Programmmer",
+     ],
+   },
  ];
  
  const projects = [

@@ -12,8 +12,10 @@ const App = () => {
         </div>
 
         <About/>
+        <div className="bg-motherboard">
+          <Tech/>
+        </div>
         <Experience/>
-        <Tech/>
         <Works/>
         <div className="relative z-0">
           <Contact/>

@@ -5,7 +5,7 @@ import { OrbitControls, Preload, useGLTF } from '@react-three/drei'
 import CanvasLoader from '../Loader'
 
 const City = ({ isMobile }) => {
-   const city = useGLTF('../../public/cybercity/scene.gltf')
+   const city = useGLTF('/cybercity/scene.gltf')
 
    return (
       <mesh>

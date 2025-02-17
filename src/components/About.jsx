@@ -30,8 +30,8 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("","",0.5, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      Saya seorang Fullstack Developer yang memiliki passion dalam membangun aplikasi web dan sistem yang scalable, efisien, serta user-friendly. Dengan pengalaman di Laravel, Livewire, Vue.js dan database management, saya siap menghadirkan solusi teknologi yang inovatif.
-      Saya selalu antusias mempelajari teknologi baru dan mencari tantangan dalam proyek-proyek menarik. Saat ini, saya terbuka untuk peluang Fullstack Developer, Software Developer, atau Web Developer – baik full-time, remote, maupun freelance.
+      I am a Fullstack Developer with a passion for building scalable, efficient, and user-friendly web applications and systems. With experience in Laravel, Livewire, Vue.js and database management, I am ready to deliver innovative technology solutions.
+      I am always enthusiastic about learning new technologies and looking for challenges in exciting projects. Currently, I am open to Fullstack Developer, Software Developer, or Web Developer opportunities - full-time, remote, or freelance.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

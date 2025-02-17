@@ -145,9 +145,9 @@ import {
      iconBg: "#383E56",
      date: "September 2024 - present",
      points: [
-       "Membuat dan mengembangkan aplikasi web menggunakan Laravel, dan Vue.js.",
-       "Mengoptimalisasi query database untuk meningkatkan kecepatan dan performa pemrosesan data.",
-       "Mengimplementasikan design responsive pada aplikasi web agar kompatibel di seluruh device.",
+      "Create and develop web applications using Laravel, and Vue.js.",
+      "Optimize database queries to improve data processing speed and performance.",
+      "Implement responsive design in web applications to be compatible across devices.",
      ],
    },
    {
@@ -157,29 +157,29 @@ import {
      iconBg: "#383E56",
      date: "July 2023 - present",
      points: [
-       "Menegerjakan project dengan berbagai macam tech Stack dan bahasa pemrograman",
-       "Melakukan Slicing dan design UI/UX",
+      "Working on projects with various tech stacks and programming languages",
+      "Slicing and UI/UX design",
      ],
    },
    {
      title: "Student of SMK Tunas Media",
-     company_name: "Rekayasa Perangkat Lunak",
+     company_name: "Software Engineering",
      icon: company,
      iconBg: "#383E56",
-     date: "July 2020 - juny-203",
+     date: "July 2020 - June-2023",
      points: [
-       "Mengerjakan project tugas akhir dengan membuat aplikasi POS penjualan baju bekas",
-       "Membuat aplikasi lelang online untuk tes uji kompetensi",
-       "Mendapatkan sertifikasi BNSP dengan title Junior Web Programmmer",
+      "Working on the final project by creating a POS application for selling used clothes",
+      "Creating an online auction application for competency test",
+      "Obtained BNSP certification with the title Junior Web Programmer",
      ],
    },
  ];
  
  const projects = [
    {
-     name: "Lelang Online",
+     name: "Online Auction",
      description:
-       "Aplkasi lelang berbasis web untuk mempermudah proses pelelangan antar klien dan penjual. Di bangun menggunakan Laravel",
+       "Web-based auction application to facilitate the auction process between clients and sellers. Built using Laravel.",
      tags: [
        {
          name: "Laravel",
@@ -200,7 +200,7 @@ import {
    {
      name: "Youtube Clone",
      description:
-       "Sebuah Klon dari aplikasi video terkenal yaitu Youtube, Membuat ulang tampilan youtube serta fungsi nya menggunakan React.js dan styling dengan TailwindCSS",
+       "A Clone of the famous video application Youtube, Recreate the appearance of youtube and its functions.",
      tags: [
        {
          name: "react",
@@ -221,7 +221,7 @@ import {
    {
      name: "Tumpu Greeny",
      description:
-       "Sebuah website untuk membantu memperkenalkan dan mempromosikan produk, layanan serta jasa dari sebuah perusahaan.",
+       "A website to help introduce and promote the products, services and services of a company.",
      tags: [
        {
          name: "html",
